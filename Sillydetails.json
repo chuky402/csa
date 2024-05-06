@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "name": "Project Alpha",
+      "description": "A cutting-edge cybersecurity project.",
+      "lastUpdated": "2024-05-05",
+      "graphData": [12, 23, 18, 29, 34],
+      "timeline": {
+        "start": "2024-01-01",
+        "end": "2024-05-01",
+        "milestones": [
+          { "date": "2024-02-01", "description": "Initial Phase" },
+          { "date": "2024-03-01", "description": "Middle Phase" }
+        ]
+      },
+      "githubLink": "https://github.com/user/project-alpha"
+    }
+  ]
+}
